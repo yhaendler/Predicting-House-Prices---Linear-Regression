@@ -2,6 +2,10 @@
 
 ---
 
+#### 📝 In short: A Linear Regression model was trained on house price data, with multiple features, with the goal of predicting house prices and make practical recommendations on how to increase the sale value of a house. Different regularization types were compared. The best model had an R-squared score of 0.86 on the training data and an R-squared score of 0.83 on the testing data.
+
+---
+
 ### Background and Problem Statement
 
 The residents of a certain neighborhood in Ames, Iwoa, have decided recently that they would like to sell their properties and move out from the neighborhood in which they currently live. They have contacted us asking for recommendations about how to best prepare to this move, in the sense of what can be done in the home in order to increase its marked value, with the goal of selling it some time in the near future. These recommendations will be based on data about house prices and characteristics that potentially affect them, following an analysis carried out specifially for the purpose of the residents in question.
